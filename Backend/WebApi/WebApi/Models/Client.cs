@@ -11,7 +11,7 @@ namespace WebApi.Models
         public string Id { get; set; }
 
         [BsonElement("Name")]
-        public string ClientName { get; set; }
+        public string Name { get; set; }
 
         [BsonElement("Email")]
         public string Email { get; set; }
@@ -19,11 +19,11 @@ namespace WebApi.Models
         [BsonElement("Address")]
         public string Address { get; set; }
 
-        [BsonElement("Logo")]
+        [BsonElement("LogoUrl")]
         public string LogoUrl { get; set; }
 
         [BsonElement("Projects")]
-        public List<Projects> Entries { get; set; }
+        public List<Projects> Projects { get; set; }
 
     }
 }
