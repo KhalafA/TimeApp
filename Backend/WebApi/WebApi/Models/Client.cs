@@ -1,5 +1,6 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
+using System.Collections.Generic;
 
 namespace WebApi.Models
 {
@@ -20,6 +21,9 @@ namespace WebApi.Models
 
         [BsonElement("Logo")]
         public string LogoUrl { get; set; }
+
+        [BsonElement("Projects")]
+        public List<Projects> Entries { get; set; }
 
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WebApi.Models
 {
-    public class Project
+    public class Projects
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
@@ -23,9 +23,9 @@ namespace WebApi.Models
         public bool IsActive { get; set; }
 
         [BsonElement("Invoices")]
-        public string Invoices { get; set; }
+        public List<Invoices> Invoices { get; set; }
 
         [BsonElement("Entries")]
-        public string Entries { get; set; }
+        public List<Entries> Entries { get; set; }
     }
 }

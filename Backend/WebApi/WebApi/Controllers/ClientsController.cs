@@ -34,7 +34,7 @@ namespace WebApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create([FromForm]Client item)
+        public IActionResult Create([FromBody]Client item)
         {
             _clientService.Create(item);
             
