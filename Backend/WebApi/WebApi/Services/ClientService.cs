@@ -37,5 +37,25 @@ namespace WebApi.Services
 
         public void Remove(string id) =>
             _clients.DeleteOne(item => item.Id == id);
+
+        //--------------------------- Project
+
+        public List<Project> GetProjects(string id)
+        {
+            Client client = _clients.Find<Client>(item => item.Id == id).FirstOrDefault();
+
+            return client.Projects;
+        }
+
+        public Client CreateProject(string id, Project item)
+        {
+
+            var filter = Builders<Client>.Filter.Eq(e => e.Id, id);
+            var update = Builders<Client>.Update.Push<Project>(e => e.Projects, item);
+
+            Client client = _clients.FindOneAndUpdate(filter, update);
+
+            return client;
+        }
     }
 }
