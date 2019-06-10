@@ -23,7 +23,7 @@ namespace WebApi.Models
         public string LogoUrl { get; set; }
 
         [BsonElement("Projects")]
-        public List<Projects> Projects { get; set; }
+        public List<Project> Projects { get; set; }
 
     }
 }
