@@ -16,6 +16,7 @@ namespace WebApi.Controllers
             _clientService = clientService;
         }
 
+
         [HttpGet]
         public ActionResult<List<Client>> Get() =>
             _clientService.Get();
@@ -40,6 +41,7 @@ namespace WebApi.Controllers
             
             return CreatedAtRoute("getClient", new { id = item.Id.ToString() }, item);
         }
+
 
         [HttpPut("{id:length(24)}")]
         public IActionResult Update(string id, Client itemIn)
@@ -70,5 +72,31 @@ namespace WebApi.Controllers
 
             return NoContent();
         }
+
+        //----------------------------------- Project - refactor later
+        [HttpGet("{id:length(24)}/projects", Name = "getProject")]
+        public ActionResult<List<Project>> GetProject(string id)
+        {
+            var item = _clientService.GetProjects(id);
+
+            if (item == null)
+            {
+                return NotFound();
+            }
+
+            return item;
+        }
+
+        [HttpPost("{id:length(24)}")]
+        public ActionResult<Client> CreateProject(string ClientId, Project item)
+        {
+            _clientService.CreateProject(ClientId, item);
+
+            return CreatedAtRoute("getProject", new { id = item.Id.ToString() }, item);
+        }
+
+
+
+
     }
 }
