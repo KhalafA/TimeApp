@@ -1,0 +1,860 @@
+[
+  {
+    "clients": [
+      {
+        "name": "Rosemarie",
+        "projects": [
+          {
+            "title": "Anim officia enim sint voluptate magna velit excepteur proident aute duis sint adipisicing ex Lorem.",
+            "baserate": 291,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Dolor dolore minim in nisi cupidatat consectetur do sint duis.",
+                "startTime": "Thursday, July 30, 2015 6:26 AM",
+                "finishTime": "Thursday, March 28, 2019 8:18 PM"
+              },
+              {
+                "title": "Reprehenderit commodo enim sint officia veniam qui.",
+                "startTime": "Friday, March 20, 2015 12:24 PM",
+                "finishTime": "Tuesday, October 21, 2014 12:17 AM"
+              },
+              {
+                "title": "Cillum aliquip culpa qui incididunt.",
+                "startTime": "Saturday, September 20, 2014 11:59 PM",
+                "finishTime": "Friday, April 18, 2014 7:14 AM"
+              },
+              {
+                "title": "Esse id laborum consectetur Lorem aute in culpa.",
+                "startTime": "Wednesday, September 17, 2014 8:48 PM",
+                "finishTime": "Thursday, March 20, 2014 5:52 PM"
+              }
+            ]
+          },
+          {
+            "title": "Sit labore laborum id ullamco veniam magna dolor velit nulla.",
+            "baserate": 281,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Amet quis aliqua id excepteur dolor qui velit cupidatat aliquip cupidatat.",
+                "startTime": "Wednesday, December 3, 2014 11:10 AM",
+                "finishTime": "Tuesday, January 8, 2019 9:45 AM"
+              },
+              {
+                "title": "Ut nisi culpa incididunt eiusmod deserunt dolor laborum et ipsum.",
+                "startTime": "Tuesday, October 18, 2016 10:20 AM",
+                "finishTime": "Wednesday, October 4, 2017 3:25 PM"
+              },
+              {
+                "title": "Nulla minim ea fugiat ut deserunt ullamco labore.",
+                "startTime": "Tuesday, October 4, 2016 3:27 PM",
+                "finishTime": "Tuesday, May 22, 2018 2:19 AM"
+              }
+            ]
+          },
+          {
+            "title": "Magna Lorem adipisicing excepteur minim cillum consectetur incididunt cupidatat deserunt.",
+            "baserate": 206,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "In minim eiusmod tempor Lorem nostrud mollit.",
+                "startTime": "Friday, September 9, 2016 1:11 PM",
+                "finishTime": "Thursday, June 15, 2017 11:33 AM"
+              }
+            ]
+          },
+          {
+            "title": "Elit ex ut amet velit aute dolor ipsum minim minim occaecat.",
+            "baserate": 276,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Laborum exercitation reprehenderit ut proident amet nisi tempor elit excepteur aliquip ad.",
+                "startTime": "Saturday, February 25, 2017 2:44 PM",
+                "finishTime": "Sunday, January 10, 2016 5:21 AM"
+              }
+            ]
+          },
+          {
+            "title": "Consequat reprehenderit aliquip duis qui dolore veniam ullamco anim quis.",
+            "baserate": 291,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Anim duis ex ea quis reprehenderit non excepteur id.",
+                "startTime": "Monday, June 26, 2017 2:50 PM",
+                "finishTime": "Thursday, May 28, 2015 6:47 AM"
+              },
+              {
+                "title": "Mollit nulla minim commodo duis irure duis nulla ea officia.",
+                "startTime": "Thursday, November 20, 2014 3:43 AM",
+                "finishTime": "Sunday, February 7, 2016 6:09 PM"
+              }
+            ]
+          },
+          {
+            "title": "Et enim ad occaecat aliquip nostrud minim sint tempor aliqua pariatur velit sint.",
+            "baserate": 228,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Sit elit labore minim amet.",
+                "startTime": "Saturday, August 5, 2017 12:29 AM",
+                "finishTime": "Wednesday, April 23, 2014 2:42 PM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Payne",
+        "projects": [
+          {
+            "title": "Consectetur ex velit magna ad culpa id proident ea aute occaecat cupidatat cupidatat reprehenderit.",
+            "baserate": 211,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Dolore enim Lorem proident sint fugiat dolor laborum mollit.",
+                "startTime": "Thursday, November 10, 2016 1:40 AM",
+                "finishTime": "Friday, January 8, 2016 11:22 PM"
+              },
+              {
+                "title": "Nulla minim eu commodo dolore excepteur dolore.",
+                "startTime": "Tuesday, March 15, 2016 10:28 AM",
+                "finishTime": "Wednesday, May 21, 2014 1:45 PM"
+              }
+            ]
+          },
+          {
+            "title": "Sunt quis consequat magna nulla est occaecat sit fugiat ut ullamco laborum commodo.",
+            "baserate": 202,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Nostrud laborum aliqua nulla esse Lorem proident aliqua.",
+                "startTime": "Monday, June 1, 2015 11:50 PM",
+                "finishTime": "Friday, January 3, 2014 4:17 PM"
+              },
+              {
+                "title": "Qui minim adipisicing pariatur et occaecat nostrud aliqua ea deserunt velit exercitation incididunt consequat occaecat.",
+                "startTime": "Saturday, April 7, 2018 3:08 AM",
+                "finishTime": "Wednesday, November 11, 2015 9:48 PM"
+              },
+              {
+                "title": "Do enim deserunt sit ex laborum laboris id ut ad Lorem.",
+                "startTime": "Thursday, November 10, 2016 10:31 PM",
+                "finishTime": "Tuesday, April 14, 2015 5:33 AM"
+              },
+              {
+                "title": "Culpa excepteur ea reprehenderit magna commodo tempor.",
+                "startTime": "Tuesday, June 21, 2016 12:28 PM",
+                "finishTime": "Tuesday, January 15, 2019 10:41 AM"
+              },
+              {
+                "title": "Sint consectetur dolore occaecat ad anim cillum duis eiusmod ad qui proident.",
+                "startTime": "Tuesday, April 16, 2019 11:09 AM",
+                "finishTime": "Saturday, June 18, 2016 8:23 AM"
+              }
+            ]
+          },
+          {
+            "title": "Adipisicing aliqua do reprehenderit aute quis.",
+            "baserate": 280,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Voluptate minim magna occaecat qui.",
+                "startTime": "Sunday, January 25, 2015 6:11 AM",
+                "finishTime": "Friday, February 9, 2018 7:11 AM"
+              },
+              {
+                "title": "Excepteur fugiat ipsum in commodo Lorem.",
+                "startTime": "Tuesday, December 2, 2014 3:09 PM",
+                "finishTime": "Monday, June 23, 2014 7:02 PM"
+              },
+              {
+                "title": "Sit tempor amet magna occaecat aliquip elit aute id.",
+                "startTime": "Tuesday, July 18, 2017 4:43 AM",
+                "finishTime": "Wednesday, October 5, 2016 5:14 PM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Carissa",
+        "projects": [
+          {
+            "title": "Anim amet mollit excepteur officia aute id officia laboris laboris commodo culpa laborum in nulla.",
+            "baserate": 264,
+            "isActive": false,
+            "entries": []
+          },
+          {
+            "title": "Pariatur excepteur ullamco id ipsum.",
+            "baserate": 233,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Tempor irure aliqua ex nisi cupidatat in magna.",
+                "startTime": "Sunday, April 7, 2019 12:13 AM",
+                "finishTime": "Friday, August 10, 2018 12:00 PM"
+              },
+              {
+                "title": "Nisi eu qui ut ipsum magna aliqua velit quis pariatur nulla Lorem.",
+                "startTime": "Sunday, February 17, 2019 5:18 AM",
+                "finishTime": "Tuesday, November 13, 2018 7:14 AM"
+              },
+              {
+                "title": "Est aliqua commodo dolor excepteur amet labore.",
+                "startTime": "Tuesday, April 24, 2018 2:59 PM",
+                "finishTime": "Thursday, May 21, 2015 7:49 PM"
+              }
+            ]
+          },
+          {
+            "title": "Officia cillum in laboris commodo nulla elit pariatur commodo aute sunt nisi.",
+            "baserate": 276,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Elit adipisicing aute culpa fugiat fugiat non ut.",
+                "startTime": "Sunday, December 27, 2015 2:48 AM",
+                "finishTime": "Monday, February 29, 2016 3:08 PM"
+              },
+              {
+                "title": "Ad irure qui adipisicing est.",
+                "startTime": "Saturday, July 14, 2018 3:21 PM",
+                "finishTime": "Tuesday, April 2, 2019 2:29 AM"
+              },
+              {
+                "title": "Sint ut anim tempor do irure deserunt magna cillum nostrud laborum.",
+                "startTime": "Sunday, November 27, 2016 2:09 AM",
+                "finishTime": "Sunday, February 12, 2017 12:46 AM"
+              },
+              {
+                "title": "Labore Lorem officia minim esse amet commodo elit.",
+                "startTime": "Saturday, January 25, 2014 10:38 AM",
+                "finishTime": "Tuesday, January 9, 2018 1:13 AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lauri",
+        "projects": [
+          {
+            "title": "Tempor commodo velit duis velit dolor quis aliquip sunt qui elit consectetur qui deserunt excepteur.",
+            "baserate": 202,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Id ut esse excepteur eu commodo do sit nisi aliquip incididunt.",
+                "startTime": "Saturday, April 23, 2016 11:19 AM",
+                "finishTime": "Tuesday, October 11, 2016 11:03 PM"
+              },
+              {
+                "title": "Lorem fugiat laborum officia ipsum aliquip laborum laboris deserunt.",
+                "startTime": "Saturday, May 12, 2018 4:38 AM",
+                "finishTime": "Monday, February 20, 2017 10:07 AM"
+              }
+            ]
+          },
+          {
+            "title": "Mollit nisi in fugiat velit eiusmod qui nisi cillum ad.",
+            "baserate": 200,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Tempor ad non fugiat proident Lorem consequat dolor laborum do officia cillum ea exercitation.",
+                "startTime": "Monday, January 27, 2014 11:17 PM",
+                "finishTime": "Wednesday, July 15, 2015 7:50 AM"
+              }
+            ]
+          },
+          {
+            "title": "Consequat mollit amet sit ullamco excepteur qui voluptate aliqua est dolore ea et incididunt eu.",
+            "baserate": 251,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Aute et laborum enim commodo in fugiat veniam nisi esse irure est irure.",
+                "startTime": "Friday, December 15, 2017 8:51 PM",
+                "finishTime": "Tuesday, March 29, 2016 6:21 AM"
+              },
+              {
+                "title": "Est occaecat qui non magna excepteur magna incididunt adipisicing non qui.",
+                "startTime": "Friday, May 1, 2015 2:46 AM",
+                "finishTime": "Monday, September 10, 2018 7:07 PM"
+              },
+              {
+                "title": "Ea cillum aute Lorem anim non ex aliqua magna ut nulla id do nostrud qui.",
+                "startTime": "Friday, January 24, 2014 4:17 PM",
+                "finishTime": "Tuesday, January 16, 2018 12:59 AM"
+              },
+              {
+                "title": "Lorem sint non laborum commodo dolor et nisi id.",
+                "startTime": "Thursday, October 5, 2017 10:05 PM",
+                "finishTime": "Thursday, March 28, 2019 8:57 AM"
+              },
+              {
+                "title": "Pariatur laboris consectetur cupidatat consequat cillum irure.",
+                "startTime": "Saturday, April 12, 2014 1:09 PM",
+                "finishTime": "Wednesday, February 7, 2018 7:56 PM"
+              },
+              {
+                "title": "Adipisicing reprehenderit elit quis ea adipisicing ad id non aliqua cupidatat.",
+                "startTime": "Saturday, October 25, 2014 5:57 AM",
+                "finishTime": "Thursday, July 13, 2017 7:16 PM"
+              }
+            ]
+          },
+          {
+            "title": "Dolor duis proident velit et veniam magna id excepteur commodo sint et.",
+            "baserate": 256,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Elit exercitation nulla laboris sint velit.",
+                "startTime": "Saturday, April 30, 2016 7:05 AM",
+                "finishTime": "Thursday, May 16, 2019 12:12 AM"
+              },
+              {
+                "title": "Dolore quis nisi aute occaecat voluptate enim proident dolor consequat aute reprehenderit qui.",
+                "startTime": "Tuesday, July 4, 2017 5:20 AM",
+                "finishTime": "Sunday, August 26, 2018 3:51 PM"
+              },
+              {
+                "title": "Culpa qui eiusmod in ea eu occaecat irure nulla cupidatat excepteur esse pariatur elit.",
+                "startTime": "Monday, January 11, 2016 3:01 PM",
+                "finishTime": "Friday, January 29, 2016 10:56 PM"
+              },
+              {
+                "title": "Enim dolor ullamco consequat irure pariatur enim aliqua.",
+                "startTime": "Tuesday, February 18, 2014 11:49 AM",
+                "finishTime": "Tuesday, June 16, 2015 8:24 AM"
+              },
+              {
+                "title": "Qui cillum amet reprehenderit esse id amet in eu occaecat in.",
+                "startTime": "Sunday, September 7, 2014 12:24 PM",
+                "finishTime": "Friday, April 7, 2017 9:06 PM"
+              }
+            ]
+          },
+          {
+            "title": "Quis do occaecat ullamco commodo occaecat aute consequat consequat do ipsum sunt do.",
+            "baserate": 289,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Nulla elit mollit consequat mollit.",
+                "startTime": "Tuesday, April 16, 2019 12:50 AM",
+                "finishTime": "Saturday, October 10, 2015 1:47 PM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Carole",
+        "projects": [
+          {
+            "title": "Dolor ut cupidatat excepteur ut sit.",
+            "baserate": 241,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Ut amet enim irure enim in ex.",
+                "startTime": "Monday, January 6, 2014 5:54 PM",
+                "finishTime": "Saturday, April 2, 2016 3:44 AM"
+              },
+              {
+                "title": "Est in ullamco reprehenderit cillum aliqua ad sunt ipsum dolor ea sint amet consequat.",
+                "startTime": "Saturday, July 12, 2014 4:50 AM",
+                "finishTime": "Monday, September 28, 2015 4:17 AM"
+              },
+              {
+                "title": "In sint sunt amet ut incididunt.",
+                "startTime": "Thursday, March 19, 2015 4:31 PM",
+                "finishTime": "Saturday, November 10, 2018 2:03 PM"
+              },
+              {
+                "title": "Ullamco reprehenderit magna minim enim consectetur labore Lorem anim nostrud quis in.",
+                "startTime": "Saturday, March 8, 2014 4:19 AM",
+                "finishTime": "Thursday, May 11, 2017 10:09 AM"
+              }
+            ]
+          },
+          {
+            "title": "Deserunt tempor incididunt culpa voluptate aliquip sit.",
+            "baserate": 251,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "In dolore voluptate dolor laboris irure qui nulla mollit cillum elit dolore ea consectetur.",
+                "startTime": "Sunday, September 27, 2015 4:06 AM",
+                "finishTime": "Monday, November 9, 2015 4:20 PM"
+              },
+              {
+                "title": "Sunt laborum nisi qui occaecat amet dolor consequat fugiat veniam.",
+                "startTime": "Friday, May 15, 2015 6:19 AM",
+                "finishTime": "Monday, February 18, 2019 6:58 AM"
+              }
+            ]
+          },
+          {
+            "title": "Aute duis ullamco nostrud deserunt aliqua qui in Lorem qui mollit ipsum exercitation deserunt.",
+            "baserate": 295,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Laborum adipisicing quis anim esse ex et.",
+                "startTime": "Saturday, March 7, 2015 2:12 PM",
+                "finishTime": "Sunday, December 20, 2015 5:53 PM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Deirdre",
+        "projects": [
+          {
+            "title": "Laboris anim ut eiusmod duis labore ad id nisi anim ipsum anim adipisicing anim.",
+            "baserate": 215,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Sit qui aliquip adipisicing dolor labore est occaecat quis excepteur cillum qui.",
+                "startTime": "Thursday, October 5, 2017 1:16 PM",
+                "finishTime": "Thursday, July 20, 2017 1:06 AM"
+              },
+              {
+                "title": "Do et adipisicing velit magna id est ipsum excepteur proident voluptate amet irure.",
+                "startTime": "Monday, June 1, 2015 3:58 PM",
+                "finishTime": "Wednesday, September 3, 2014 8:46 PM"
+              },
+              {
+                "title": "Sit tempor sunt incididunt in ad qui deserunt excepteur.",
+                "startTime": "Monday, November 9, 2015 9:47 PM",
+                "finishTime": "Wednesday, July 9, 2014 11:55 AM"
+              },
+              {
+                "title": "Adipisicing ut labore laboris aliqua esse aliqua.",
+                "startTime": "Tuesday, March 13, 2018 7:55 PM",
+                "finishTime": "Tuesday, October 18, 2016 11:08 AM"
+              }
+            ]
+          },
+          {
+            "title": "Et veniam pariatur duis tempor ipsum officia reprehenderit adipisicing eu sint aute laboris in.",
+            "baserate": 257,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Id minim sunt esse pariatur ad velit ullamco proident commodo voluptate in velit.",
+                "startTime": "Saturday, May 28, 2016 8:44 PM",
+                "finishTime": "Sunday, January 5, 2014 8:25 AM"
+              },
+              {
+                "title": "Nulla dolore labore ea eu Lorem.",
+                "startTime": "Wednesday, May 23, 2018 3:07 PM",
+                "finishTime": "Friday, January 20, 2017 7:33 PM"
+              },
+              {
+                "title": "Amet adipisicing sunt irure id ipsum.",
+                "startTime": "Saturday, April 12, 2014 3:07 PM",
+                "finishTime": "Monday, April 17, 2017 10:19 PM"
+              },
+              {
+                "title": "Non quis Lorem quis reprehenderit proident reprehenderit amet cillum ex.",
+                "startTime": "Sunday, September 6, 2015 10:03 AM",
+                "finishTime": "Friday, February 12, 2016 8:23 PM"
+              }
+            ]
+          },
+          {
+            "title": "Irure cupidatat consectetur nisi esse incididunt deserunt nisi ullamco anim do.",
+            "baserate": 225,
+            "isActive": true,
+            "entries": []
+          },
+          {
+            "title": "Dolor dolor commodo veniam ipsum aliquip anim et elit minim commodo laborum.",
+            "baserate": 248,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Sit reprehenderit cupidatat laborum ad est cupidatat consectetur aliquip pariatur aute irure ex excepteur.",
+                "startTime": "Tuesday, September 18, 2018 5:20 PM",
+                "finishTime": "Tuesday, August 11, 2015 4:46 AM"
+              }
+            ]
+          },
+          {
+            "title": "Aute quis ad nisi do nostrud aliquip qui amet id pariatur.",
+            "baserate": 212,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Et elit pariatur aute irure pariatur consequat aliquip reprehenderit id sunt proident ipsum.",
+                "startTime": "Tuesday, October 28, 2014 11:15 AM",
+                "finishTime": "Wednesday, April 18, 2018 12:28 AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Janet",
+        "projects": [
+          {
+            "title": "Amet laboris labore consequat quis aute nostrud amet voluptate adipisicing.",
+            "baserate": 254,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "In Lorem eu quis sint dolore voluptate id.",
+                "startTime": "Saturday, October 29, 2016 5:07 AM",
+                "finishTime": "Sunday, November 19, 2017 2:39 AM"
+              },
+              {
+                "title": "Est mollit fugiat labore aute cupidatat nulla do dolor minim Lorem est veniam.",
+                "startTime": "Sunday, April 27, 2014 5:34 AM",
+                "finishTime": "Monday, August 25, 2014 4:09 PM"
+              },
+              {
+                "title": "Excepteur laborum dolor adipisicing exercitation amet est est consequat qui excepteur qui.",
+                "startTime": "Wednesday, February 17, 2016 10:30 AM",
+                "finishTime": "Wednesday, March 16, 2016 2:31 AM"
+              },
+              {
+                "title": "Laborum ut duis quis consectetur dolore cupidatat.",
+                "startTime": "Friday, August 26, 2016 2:20 PM",
+                "finishTime": "Monday, December 26, 2016 7:44 AM"
+              },
+              {
+                "title": "Sunt mollit qui irure ullamco deserunt irure nisi tempor eiusmod quis.",
+                "startTime": "Sunday, August 7, 2016 2:30 AM",
+                "finishTime": "Wednesday, May 22, 2019 11:37 PM"
+              },
+              {
+                "title": "Exercitation quis Lorem voluptate aute deserunt velit minim officia aute qui enim elit esse eiusmod.",
+                "startTime": "Thursday, November 6, 2014 4:17 PM",
+                "finishTime": "Monday, June 1, 2015 2:05 AM"
+              }
+            ]
+          },
+          {
+            "title": "Nostrud est reprehenderit tempor esse do labore esse.",
+            "baserate": 280,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Tempor occaecat excepteur culpa quis tempor magna ea et id nisi nostrud fugiat amet.",
+                "startTime": "Monday, October 24, 2016 2:25 AM",
+                "finishTime": "Friday, July 4, 2014 2:44 AM"
+              },
+              {
+                "title": "Anim tempor elit officia qui.",
+                "startTime": "Monday, July 20, 2015 11:36 PM",
+                "finishTime": "Sunday, April 10, 2016 5:36 PM"
+              },
+              {
+                "title": "Sit irure velit aliqua amet cillum deserunt commodo proident enim nulla eiusmod exercitation laborum deserunt.",
+                "startTime": "Thursday, October 26, 2017 7:37 AM",
+                "finishTime": "Monday, May 30, 2016 6:14 AM"
+              },
+              {
+                "title": "Consequat eu laboris do dolor ex eiusmod sint.",
+                "startTime": "Wednesday, November 21, 2018 11:41 PM",
+                "finishTime": "Thursday, September 25, 2014 5:27 PM"
+              },
+              {
+                "title": "Veniam nulla in amet qui in do anim commodo.",
+                "startTime": "Monday, December 12, 2016 3:27 PM",
+                "finishTime": "Monday, March 11, 2019 1:34 PM"
+              }
+            ]
+          },
+          {
+            "title": "Occaecat nisi ex incididunt exercitation ipsum veniam nostrud exercitation.",
+            "baserate": 215,
+            "isActive": true,
+            "entries": []
+          }
+        ]
+      },
+      {
+        "name": "Tiffany",
+        "projects": [
+          {
+            "title": "Voluptate pariatur voluptate nulla ipsum Lorem id enim esse magna est.",
+            "baserate": 213,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Adipisicing mollit sunt sint nulla ea cupidatat nulla sint mollit labore.",
+                "startTime": "Sunday, March 15, 2015 1:01 AM",
+                "finishTime": "Thursday, October 9, 2014 5:13 PM"
+              },
+              {
+                "title": "Consequat consequat Lorem elit voluptate aliqua cupidatat aute sunt.",
+                "startTime": "Friday, May 26, 2017 8:40 PM",
+                "finishTime": "Saturday, December 29, 2018 7:04 PM"
+              }
+            ]
+          },
+          {
+            "title": "Sit non occaecat fugiat qui reprehenderit cupidatat.",
+            "baserate": 260,
+            "isActive": true,
+            "entries": []
+          },
+          {
+            "title": "Deserunt ipsum incididunt mollit dolore cupidatat minim Lorem sint tempor culpa ex.",
+            "baserate": 281,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Cupidatat mollit sit excepteur qui sint cillum cupidatat officia.",
+                "startTime": "Thursday, February 22, 2018 11:06 AM",
+                "finishTime": "Thursday, October 22, 2015 12:22 PM"
+              },
+              {
+                "title": "Ut et culpa ea eu excepteur tempor officia veniam eu minim in occaecat.",
+                "startTime": "Sunday, September 20, 2015 3:31 PM",
+                "finishTime": "Friday, March 2, 2018 9:23 PM"
+              },
+              {
+                "title": "Qui non laboris proident ullamco deserunt officia eu culpa proident irure enim.",
+                "startTime": "Sunday, December 9, 2018 9:08 AM",
+                "finishTime": "Sunday, December 30, 2018 10:46 AM"
+              },
+              {
+                "title": "Deserunt ullamco veniam sunt cupidatat commodo in est aliquip.",
+                "startTime": "Saturday, July 16, 2016 3:25 PM",
+                "finishTime": "Friday, April 5, 2019 9:05 AM"
+              }
+            ]
+          },
+          {
+            "title": "Mollit excepteur ad pariatur aute est eiusmod velit eu.",
+            "baserate": 231,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Dolore culpa et enim exercitation magna id esse reprehenderit aliquip.",
+                "startTime": "Sunday, May 5, 2019 9:20 PM",
+                "finishTime": "Sunday, August 3, 2014 10:45 PM"
+              },
+              {
+                "title": "Non consequat esse nulla voluptate aute ullamco qui ea adipisicing sunt anim adipisicing nulla sit.",
+                "startTime": "Thursday, March 22, 2018 9:47 AM",
+                "finishTime": "Wednesday, February 13, 2019 2:59 AM"
+              },
+              {
+                "title": "Magna consectetur mollit nostrud pariatur non mollit do reprehenderit reprehenderit aute fugiat excepteur.",
+                "startTime": "Sunday, May 13, 2018 2:17 PM",
+                "finishTime": "Sunday, September 10, 2017 5:22 PM"
+              }
+            ]
+          },
+          {
+            "title": "Nulla officia amet sit consectetur magna ipsum exercitation culpa.",
+            "baserate": 239,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Non fugiat enim esse culpa aliqua veniam minim.",
+                "startTime": "Monday, August 31, 2015 12:17 PM",
+                "finishTime": "Monday, September 18, 2017 10:40 AM"
+              },
+              {
+                "title": "Ea Lorem velit elit reprehenderit nostrud aliqua excepteur reprehenderit deserunt cupidatat deserunt sit.",
+                "startTime": "Thursday, November 24, 2016 9:40 PM",
+                "finishTime": "Wednesday, January 23, 2019 3:53 PM"
+              },
+              {
+                "title": "Culpa commodo fugiat consectetur fugiat consectetur labore qui sunt minim culpa.",
+                "startTime": "Sunday, November 29, 2015 8:35 PM",
+                "finishTime": "Thursday, December 13, 2018 12:41 AM"
+              },
+              {
+                "title": "Cillum deserunt eu reprehenderit in ad nulla consequat ex.",
+                "startTime": "Saturday, September 3, 2016 8:25 PM",
+                "finishTime": "Thursday, October 5, 2017 5:34 AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Keri",
+        "projects": [
+          {
+            "title": "Proident mollit est est consequat tempor fugiat elit nostrud duis commodo aliquip consequat consequat.",
+            "baserate": 225,
+            "isActive": false,
+            "entries": []
+          },
+          {
+            "title": "Sunt excepteur exercitation excepteur tempor duis.",
+            "baserate": 271,
+            "isActive": false,
+            "entries": []
+          },
+          {
+            "title": "Duis adipisicing incididunt aliqua eiusmod qui do consequat mollit magna tempor ex sit est.",
+            "baserate": 232,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Elit esse irure mollit sit id reprehenderit.",
+                "startTime": "Friday, May 16, 2014 4:39 AM",
+                "finishTime": "Wednesday, February 20, 2019 11:26 AM"
+              },
+              {
+                "title": "Sunt ea adipisicing consectetur officia ad incididunt exercitation.",
+                "startTime": "Thursday, October 6, 2016 8:37 AM",
+                "finishTime": "Wednesday, April 3, 2019 12:09 PM"
+              },
+              {
+                "title": "Quis esse adipisicing do commodo id duis.",
+                "startTime": "Saturday, December 5, 2015 9:53 AM",
+                "finishTime": "Thursday, September 13, 2018 6:46 AM"
+              },
+              {
+                "title": "Id ex reprehenderit nulla duis sit veniam et cupidatat aliquip.",
+                "startTime": "Friday, January 4, 2019 2:59 PM",
+                "finishTime": "Wednesday, January 30, 2019 5:30 AM"
+              },
+              {
+                "title": "Consequat ex eiusmod fugiat incididunt duis laboris ex veniam proident ad exercitation.",
+                "startTime": "Thursday, April 20, 2017 8:15 AM",
+                "finishTime": "Saturday, May 31, 2014 11:53 AM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hensley",
+        "projects": [
+          {
+            "title": "Ea fugiat voluptate veniam cillum incididunt commodo est eu aute mollit anim.",
+            "baserate": 284,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Qui laborum officia proident laboris nostrud aliqua consequat voluptate sit non ullamco voluptate.",
+                "startTime": "Thursday, May 9, 2019 9:52 PM",
+                "finishTime": "Saturday, November 18, 2017 11:36 PM"
+              },
+              {
+                "title": "Adipisicing proident eu sint excepteur culpa reprehenderit.",
+                "startTime": "Wednesday, May 30, 2018 11:00 PM",
+                "finishTime": "Monday, December 11, 2017 8:42 PM"
+              },
+              {
+                "title": "Aliqua et incididunt consectetur laboris mollit duis minim adipisicing irure incididunt qui.",
+                "startTime": "Friday, November 20, 2015 1:45 PM",
+                "finishTime": "Monday, March 13, 2017 12:07 AM"
+              },
+              {
+                "title": "Id esse id ex laboris magna adipisicing laboris nulla et Lorem culpa dolore velit.",
+                "startTime": "Sunday, August 16, 2015 1:48 PM",
+                "finishTime": "Monday, February 18, 2019 2:11 PM"
+              },
+              {
+                "title": "Ipsum tempor fugiat officia enim veniam laborum in nulla eiusmod dolor.",
+                "startTime": "Friday, January 12, 2018 1:13 AM",
+                "finishTime": "Saturday, April 9, 2016 9:38 AM"
+              },
+              {
+                "title": "Anim non exercitation sunt eiusmod tempor sint ea fugiat enim commodo.",
+                "startTime": "Tuesday, February 17, 2015 12:55 AM",
+                "finishTime": "Friday, February 8, 2019 8:40 PM"
+              }
+            ]
+          },
+          {
+            "title": "Dolor cupidatat quis duis in ut Lorem deserunt nisi sit do.",
+            "baserate": 246,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Ut ullamco labore velit aliquip duis dolore eu officia ipsum consequat ea eu.",
+                "startTime": "Friday, September 25, 2015 5:32 AM",
+                "finishTime": "Sunday, July 8, 2018 9:36 PM"
+              },
+              {
+                "title": "Adipisicing deserunt et officia proident cillum.",
+                "startTime": "Friday, October 10, 2014 9:46 PM",
+                "finishTime": "Thursday, February 22, 2018 10:54 PM"
+              },
+              {
+                "title": "Ad consequat nostrud ut exercitation dolore laboris ex nisi pariatur magna.",
+                "startTime": "Tuesday, August 23, 2016 8:45 AM",
+                "finishTime": "Wednesday, September 24, 2014 6:55 PM"
+              },
+              {
+                "title": "Ex fugiat officia pariatur dolor exercitation labore duis.",
+                "startTime": "Friday, July 28, 2017 1:09 AM",
+                "finishTime": "Wednesday, October 8, 2014 6:24 AM"
+              },
+              {
+                "title": "Non et consequat id esse elit magna elit qui sunt officia ea sunt in.",
+                "startTime": "Saturday, November 4, 2017 4:07 PM",
+                "finishTime": "Tuesday, October 25, 2016 6:21 AM"
+              }
+            ]
+          },
+          {
+            "title": "Aliqua enim deserunt nulla dolor id non sunt sit cupidatat dolore.",
+            "baserate": 221,
+            "isActive": true,
+            "entries": [
+              {
+                "title": "Ipsum exercitation nostrud duis voluptate pariatur qui enim cillum.",
+                "startTime": "Monday, September 1, 2014 9:58 PM",
+                "finishTime": "Thursday, February 28, 2019 10:09 AM"
+              },
+              {
+                "title": "Consectetur laborum laborum occaecat sunt deserunt consectetur aliqua ad cillum nulla minim excepteur ut.",
+                "startTime": "Wednesday, June 7, 2017 3:33 AM",
+                "finishTime": "Thursday, April 10, 2014 4:59 AM"
+              },
+              {
+                "title": "Aute ipsum commodo laboris consectetur ut proident amet adipisicing fugiat magna aliqua.",
+                "startTime": "Monday, October 29, 2018 3:01 AM",
+                "finishTime": "Sunday, February 21, 2016 1:37 AM"
+              }
+            ]
+          },
+          {
+            "title": "Qui ad nisi ipsum Lorem aliqua velit.",
+            "baserate": 249,
+            "isActive": false,
+            "entries": [
+              {
+                "title": "Deserunt excepteur aliquip adipisicing dolor.",
+                "startTime": "Sunday, August 27, 2017 4:23 AM",
+                "finishTime": "Monday, May 18, 2015 5:19 PM"
+              },
+              {
+                "title": "Ullamco ad quis ea aute veniam voluptate.",
+                "startTime": "Sunday, December 28, 2014 4:41 AM",
+                "finishTime": "Sunday, February 8, 2015 2:42 PM"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
