@@ -41,7 +41,7 @@ namespace WebApi
             services.AddSingleton<IDbSettings>(sp =>
                 sp.GetRequiredService<IOptions<DbSettings>>().Value);
 
-            services.AddSingleton<ClientService>();
+            services.AddSingleton<IWebApiService, WebApiService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
