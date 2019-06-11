@@ -9,7 +9,7 @@ You must have MongoDB installed
 
 > Open terminal
 
-> Run "mongodb --dbpath <path-to-folder-created-in-step-1>
+> Run "mongodb --dbpath \<path-to-folder-created-in-step-1\>
   
 > keep this terminal open
 
